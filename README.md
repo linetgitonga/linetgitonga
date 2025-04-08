@@ -24,5 +24,5 @@ My Keja: A property management platform built using Django for managing tenants,
 Exploring space technology to tackle climate change challenges through solutions in Disaster Management and Urban Planning.
 Advancing my skills in Android Development and cloud services.
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinetGitonga&show_icons=true&theme=radical" alt="Linet's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinetGitonga&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BrianKasina&show_icons=true&theme=radical" alt="kasina's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinetGitonga&layout=compact&theme=radical" alt="Top Languages" /> </p>
 💬 Let's Connect
